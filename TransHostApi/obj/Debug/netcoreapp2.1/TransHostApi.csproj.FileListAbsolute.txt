@@ -1,0 +1,15 @@
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\TransHostApi.deps.json
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\TransHostApi.runtimeconfig.json
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\TransHostApi.runtimeconfig.dev.json
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\TransHostApi.dll
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\TransHostApi.pdb
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.csprojAssemblyReference.cache
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.csproj.CoreCompileInputs.cache
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.RazorAssemblyInfo.cache
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.RazorAssemblyInfo.cs
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.AssemblyInfoInputs.cache
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.AssemblyInfo.cs
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.RazorTargetAssemblyInfo.cache
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.dll
+D:\repos\TransHostApi\TransHostApi\obj\Debug\netcoreapp2.1\TransHostApi.pdb
+D:\repos\TransHostApi\TransHostApi\bin\Debug\netcoreapp2.1\doc.xml

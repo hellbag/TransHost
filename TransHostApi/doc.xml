@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TransHostApi</name>
+    </assembly>
+    <members>
+        <member name="M:TransHostApi.Controllers.AirportController.Distance(System.String,System.String)">
+            <summary>
+            Расчет расстояния между аэропортами
+            </summary>
+            <param name="src"></param>
+            <param name="dest"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TransHostApi.DomainServices.Coordinates.GetDistance(TransHostApi.Model.Location,TransHostApi.Model.Location)">
+            <summary>
+            Формула расчета расстояния между кооржинатами. Взято из интернетов.
+            </summary>
+            <param name="src"></param>
+            <param name="dest"></param>
+            <returns></returns>
+        </member>
+        <member name="T:TransHostApi.ExceptionHandlerMiddleware">
+            <summary>
+            Глобальная обработка исключений.
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Model.Airport">
+            <summary>
+            Модель аэропорта
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Model.Exceptions.ExternalServerException">
+            <summary>
+            Исключение возникает при ошибке в сервере АПИ
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Model.Exceptions.IataValidException">
+            <summary>
+            Исключение при неверном коде аэропорта
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Model.Location">
+            <summary>
+            Географические координаты
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.AirportService">
+            <summary>
+            Сервис для работы контроллеров.
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.ApiResponse">
+            <summary>
+            Базовый класс ответа
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.ErrorResponse">
+            <summary>
+            ДТО для отправки ошибки на запрос
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.OkResponse`1">
+            <summary>
+            ДТО для отправки успешного ответа
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="T:TransHostApi.Services.TeleportAirportDto">
+            <summary>
+            Дто для получения аэропорта
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.TeleportLocationDto">
+            <summary>
+            ДТО для получения координат
+            </summary>
+        </member>
+        <member name="T:TransHostApi.Services.TeleportComService">
+            <summary>
+            Сервис для работы с апи  TeleportCom
+            </summary>
+        </member>
+    </members>
+</doc>
